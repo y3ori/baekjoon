@@ -10,4 +10,4 @@ for _ in range(test) :
         floor = h
         room = n // h
     
-    print(floor*100+room)
+    print(floor * 100 + room)
