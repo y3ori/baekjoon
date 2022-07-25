@@ -1,3 +1,5 @@
-f0 = [x for x in range(1, x+1)]
+print(5/7)
 
-print(f0(3))
+print(5//5)
+
+print(5%7)
